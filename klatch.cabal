@@ -2,7 +2,7 @@ name: klatch
 version: 0.1.0.0
 synopsis: An IRC client relay
 homepage: http://github.com/mbrock/klatch
-license: GPL
+license: AGPL
 author: Mikael Brockman
 maintainer: mikael@goula.sh
 build-type: Simple
